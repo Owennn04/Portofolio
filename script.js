@@ -1,5 +1,5 @@
 // ===== EDIT DI SINI SAJA =====
-var SITE = { name: 'NAMA KAMU', initial: 'N', email: 'emailkamu@gmail.com' };
+var SITE = { name: 'Christian Owen Tengkawan', initial: 'CO', email: 'owentengkawan@gmail.com' };
 // =============================
 
 document.title = 'Portofolio | ' + SITE.name;
